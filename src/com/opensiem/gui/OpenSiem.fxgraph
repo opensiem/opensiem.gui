@@ -1,0 +1,10 @@
+package com.opensiem.gui
+
+import javafx.scene.layout.BorderPane
+import com.opensiem.gui.OpenSiemController
+
+component OpenSiem controlledby OpenSiemController {
+	BorderPane {
+		//TODO Add Nodes
+	}
+}
